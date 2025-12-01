@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Nebula",
+  "base_artist": "HEAVEN、aryy、Lil Soft Tennis、RY0N4",
+  "createdAt": "2025-12-01T03:00:02.624902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nebula",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/01_Nebula_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nebula",
+      "artist": "Ankor",
+      "has_synced": false,
+      "path": "select/02_Nebula_Ankor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Nebula",
+      "artist": "Vektor",
+      "has_synced": true,
+      "path": "select/03_Dark_Nebula_Vektor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wont Go Far (feat. Freddie Dredd & Nebula)",
+      "artist": "Drae Da Skimask",
+      "has_synced": true,
+      "path": "select/04_Wont_Go_Far_(feat._Freddie_Dredd_&_Nebula)_Drae_Da_Skimask.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Valentine Nebula 777 (feat. Yameii Online)",
+      "artist": "Deko",
+      "has_synced": true,
+      "path": "select/05_Valentine_Nebula_777_(feat._Yameii_Online)_Deko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "valentine nebula 777 ft yameii ∞༺♥༻✧",
+      "artist": "Deko",
+      "has_synced": true,
+      "path": "select/06_valentine_nebula_777_ft_yameii_∞༺♥༻✧_Deko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Dream Nebula (Part 1)",
+      "artist": "Nektar",
+      "has_synced": false,
+      "path": "select/07_The_Dream_Nebula_(Part_1)_Nektar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Dream Nebula, Part 1",
+      "artist": "Nektar",
+      "has_synced": false,
+      "path": "select/08_The_Dream_Nebula,_Part_1_Nektar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pro Nebula Nova",
+      "artist": "Lunarsea",
+      "has_synced": true,
+      "path": "select/09_Pro_Nebula_Nova_Lunarsea.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Nebula",
+      "artist": "HEAVEN、aryy、Lil Soft Tennis、RY0N4",
+      "has_synced": false,
+      "path": "select/pl_Nebula_HEAVEN、aryy、Lil_Soft_Tennis、RY0N4.txt"
+    }
+  ]
+}
